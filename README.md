@@ -2,7 +2,7 @@
 
 ### About
 
-This repository intended to provide a **Artificial Intelligence resources**, (based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
+This repository intended to provide a **Artificial Intelligence resources**, based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
 
 ### Content
 
@@ -47,11 +47,11 @@ This repository intended to provide a **Artificial Intelligence resources**, (ba
 
 #### Books
 
-1. Pattern Recognition and Machine Learning (2006) [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [Article 3 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [Article 4 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl)
-2. Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [[Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-3. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills by Denis Rothman  [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-4. Mastering Machine Learning Algorithms [Book]  [Article 1 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl) [Article 2 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-5. Machine Learning: A Probabilistic Perspective [Book] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+1. **Pattern Recognition and Machine Learning (2006) [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [Article 4 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl)**
+2. **Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [[Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
+3. **Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills   [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
+4. **Mastering Machine Learning Algorithms [Book]  [Article 1 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl) [Article 2 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
+5. **Machine Learning: A Probabilistic Perspective [Book] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)**
 
 #### Tutorials
 
@@ -59,7 +59,7 @@ This repository intended to provide a **Artificial Intelligence resources**, (ba
 
 2. CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo [[Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
-3. CPSC 322: Introduction to Artificial Intelligence (UBC) [[Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html)  [Article 1 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl) [Article 2 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [Article 3 link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+3. CPSC 322: Introduction to Artificial Intelligence (UBC) [[Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html)  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
 4. Vrije Universiteit Amsterdam [Tutorial]  [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl)
 
@@ -80,9 +80,9 @@ This repository intended to provide a **Artificial Intelligence resources**, (ba
 
 1. MIT RES.6-012 Introduction to Probability, Spring 2018 [[Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 2. UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [[Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
-3. Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019 [Lecture 11 to 15 only ]  [[Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-4. Daphne Koller - Probabilistic Graphical Models [[Course]](https://www.coursera.org/instructor/koller)
-5.  Probabilistic Machine Learning kevin Murphy [[Book]](https://github.com/rohinarora/EECE5644-Machine_Learning/blob/master/Kevin Murphy - Machine Learning Probabilistic Perspective.pdf) 
+3. Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019 **[Lecture 11 to 15 only ]**  [[Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+4. Daphne Koller - Probabilistic Graphical Models [[Courses]](https://www.coursera.org/instructor/koller)
+5.  Probabilistic Machine Learning Kevin Murphy [[Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) 
 6. Gaussian Processes for Machine Learning, MIT Press [[Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
 
 
