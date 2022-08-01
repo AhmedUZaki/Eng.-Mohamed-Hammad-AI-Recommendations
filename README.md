@@ -32,14 +32,14 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 1. [Probability For Dummies [Book]](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1) [Beginner]
 2. [An Introduction to Statistical Learning [Book]](https://www.statlearning.com/) [[Tutorial]](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02oG4cwubLa31xuA1wkZwfAZktRhy6kVybqdJCn4nyCTtcfdEMyxik1ZpdkTTgeto7l)  [Intermediate]
-3.  The Art of Statistics: Learning from Data [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0cvVzpUzoFbvF4eiusNxyhpfjtxihqxLbibEp9jjS2DAW3mK1PwoaBDVF2QEPc6iMl)
+3.  The Art of Statistics: Learning from Data [Book] [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0cvVzpUzoFbvF4eiusNxyhpfjtxihqxLbibEp9jjS2DAW3mK1PwoaBDVF2QEPc6iMl)
 4. [The Elements of Statistical Learning [Book]](https://hastie.su.domains/Papers/ESLII.pdf) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0HFh63R33W4CivYHroTtgrQ5QrfBFyrK2566gMB3u72z5otJ5KwRkuMGXwxWTLzHMl)  [Advanced]
 
 
 
 ### Tutorials
 
-1. Planting the Seeds of Probabilistic Thinking (Probability role in Machine Learning) [Tutorial] [Beginner] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0WkBXqXiFGbJA4FWExBUdy5i413PZfGvtekRid4iwYMTD41KgFdnP9E1zH5s8KWVFl)
+1. Planting the Seeds of Probabilistic Thinking (Learn Probability role in Machine Learning) [Tutorial] [Beginner] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0WkBXqXiFGbJA4FWExBUdy5i413PZfGvtekRid4iwYMTD41KgFdnP9E1zH5s8KWVFl)
 
    - [Shakir Mohamed Planting the Seeds of Probabilistic Thinking Part 1 - YouTube](https://www.youtube.com/watch?v=hlVayKW8v9M)
 
@@ -133,25 +133,41 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 ## General Articles 
 
-- [How to BecomeaData Scientist](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
-- [ Data Scientist vs Data Analyst vs Data Engineer ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
-- [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
-- [Algorithms ](https://www.facebook.com/ahmed.metwally.official/posts/pfbid02VpEPGByRE2j1r6sdjddE4S19KKCFWtKAFViaU5B6bBS8eWwML7VocdG5usqoBfhDl)
-- [ Active Learning and Weak Learning](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027Xqd9pSUu2wyJNtG1NdSwnF8rRj2J5pAoq9n1x7ZNzHkzDbCrR1XexJyTqdyFpfPl)
-- [Bayesian Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02dKDSyR5kvPR7JLTVaX3GLVByrc2XTiC4hQf89PZ3bcANJ5YUTU8tSozUE8BajuALl)
+- [لو اتعلمت AI كويس هلاقي شغل ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W2F9NUzdLxb4QUg8AiiS1eT3gdjWRMGFa9eeoDWRUUUXBzfWQAQ3fdgANfJ4h6Zjl)
 
-- [لواتعلمت AI كويس هلاقي شغل ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W2F9NUzdLxb4QUg8AiiS1eT3gdjWRMGFa9eeoDWRUUUXBzfWQAQ3fdgANfJ4h6Zjl)
 - [يا اخي خليني ابقي عاوز اقابلك.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0jWQeVDJfm2VUppT4meZts9UpnBcDWLCsHiWyr3MqreVpEws9y3KeeK1ZJXdTZ9sYl)
+
 - [هتلاقي ناس كتير عاوزه  تعمل كاريير شيفت الي AI ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W6cWgbBcUpGU8maysD9z36LtBo1KTVCeYdXxqKSVM7NPrPEbnpRzkYzcsTKWpmoWl)
 
 - [اتعلم شوية Data Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0W9zw26Unh2GRySWYoPCpxmqGzumBLgRQcpuDzXhNXWiaRgVmWr2fSyF23J4Z5YJ8l)
+
 - [لو بتشتغل Big Data](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Nz8GPsukBrjvymidKqBAJzFCkKVtJNVwCgZLAfrw6SPvJBkYiYF1ZuBFmEhw23DXl)
+
 - [انت ليه دايما تقول ان Data Science علم عميق و تاكد المعني دا ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0KRcRrKtHkdLyzp2g55m2XK9QKa6ZfLCguciXjhDe8j1jgYDe4jFDdBUHesNUR5Lql)
+
 - [طول بالك للاخر لو  بتستعمل DL](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDenGHenYF2Vb6GwCyXeoCKGPGmBkEsmixtFqbYCGccMfpxFGvCzbNcWkPv2frvLl)
+
 - [دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس.](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
+
 - [علشان تتعلم كويس يعني محتاج سنتين ما بين نظري و تطبيق](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0M6NVaewWSvwWr2YuNr7zV9VpCe6s4EmjMN4CN8i9Sz5Bidkvtpsh77fpvimbZHjUl)
+
 - [لو الدراسة النظرية العنيفة في رياضيات و علوم احصاء و احتمالات مش خفيفة علي قلبك يبقي بلاش](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid034czusGikD4rbbbz6ZRosQqfJRaM1WgXdiDE5yL4YYb1zuTmZikxDTRW2E1ERXsEkl)
-- 
+
+- [How to Become a Data Scientist](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
+
+- [ Data Scientist vs Data Analyst vs Data Engineer ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
+
+- [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
+
+- [Algorithms ](https://www.facebook.com/ahmed.metwally.official/posts/pfbid02VpEPGByRE2j1r6sdjddE4S19KKCFWtKAFViaU5B6bBS8eWwML7VocdG5usqoBfhDl)
+
+- [ Active Learning and Weak Learning](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027Xqd9pSUu2wyJNtG1NdSwnF8rRj2J5pAoq9n1x7ZNzHkzDbCrR1XexJyTqdyFpfPl)
+
+- [Bayesian Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02dKDSyR5kvPR7JLTVaX3GLVByrc2XTiC4hQf89PZ3bcANJ5YUTU8tSozUE8BajuALl)
+
+  
+
+  
 
 
 
