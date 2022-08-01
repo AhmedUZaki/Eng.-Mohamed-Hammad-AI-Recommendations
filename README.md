@@ -7,6 +7,7 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 ### Content
 
 - [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
+- [Linear Algebra](#Linear-Algebra)
 - [Probability and Statistics](#Probability-and-Statistics)
 - [Artificial intelligence & Machine Learning](#Artificial-intelligence-&-Machine-Learning)
 - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
@@ -77,7 +78,9 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 6. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html)  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
-7. Vrije Universiteit Amsterdam [Tutorial]  [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl)
+7. [Machine Learning Specialization - Andrew Ng ](https://www.coursera.org/specializations/machine-learning-introduction?fbclid=IwAR233eAUbOt9A0ezO6jKWcK1RPhn99zi53r_FyNdO8RtHo9ZQT03Yoz7rbM) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid036Ws6y9z29V7LL5eF1oJUDHXdHX6u8PdhLes4d1AE1GUDkvupi3CZboxtQaeg27srl)
+
+8. Vrije Universiteit Amsterdam [Tutorial]  [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl)
 
    - [Machine Learning @ VU | MLVU](https://mlvu.github.io/?fbclid=IwAR359JZSY34SDo0k33X8mgqd-tKJuQbnp0i9fqof7YLBgp1sByd1dOqYE4c)
 
@@ -139,29 +142,29 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 - [هتلاقي ناس كتير عاوزه  تعمل كاريير شيفت الي AI ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W6cWgbBcUpGU8maysD9z36LtBo1KTVCeYdXxqKSVM7NPrPEbnpRzkYzcsTKWpmoWl)
 
-- [اتعلم شوية Data Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0W9zw26Unh2GRySWYoPCpxmqGzumBLgRQcpuDzXhNXWiaRgVmWr2fSyF23J4Z5YJ8l)
+- [.اتعلم شوية Data Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0W9zw26Unh2GRySWYoPCpxmqGzumBLgRQcpuDzXhNXWiaRgVmWr2fSyF23J4Z5YJ8l)
 
-- [لو بتشتغل Big Data](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Nz8GPsukBrjvymidKqBAJzFCkKVtJNVwCgZLAfrw6SPvJBkYiYF1ZuBFmEhw23DXl)
+- [لو بتشتغل Big Data.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Nz8GPsukBrjvymidKqBAJzFCkKVtJNVwCgZLAfrw6SPvJBkYiYF1ZuBFmEhw23DXl)
 
 - [انت ليه دايما تقول ان Data Science علم عميق و تاكد المعني دا ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0KRcRrKtHkdLyzp2g55m2XK9QKa6ZfLCguciXjhDe8j1jgYDe4jFDdBUHesNUR5Lql)
 
-- [طول بالك للاخر لو  بتستعمل DL](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDenGHenYF2Vb6GwCyXeoCKGPGmBkEsmixtFqbYCGccMfpxFGvCzbNcWkPv2frvLl)
+- [طول بالك للاخر لو  بتستعمل DL.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDenGHenYF2Vb6GwCyXeoCKGPGmBkEsmixtFqbYCGccMfpxFGvCzbNcWkPv2frvLl)
 
-- [دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس.](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
+- [.دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس.](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
 
-- [علشان تتعلم كويس يعني محتاج سنتين ما بين نظري و تطبيق](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0M6NVaewWSvwWr2YuNr7zV9VpCe6s4EmjMN4CN8i9Sz5Bidkvtpsh77fpvimbZHjUl)
+- [.علشان تتعلم كويس يعني محتاج سنتين ما بين نظري و تطبيق](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0M6NVaewWSvwWr2YuNr7zV9VpCe6s4EmjMN4CN8i9Sz5Bidkvtpsh77fpvimbZHjUl)
 
-- [لو الدراسة النظرية العنيفة في رياضيات و علوم احصاء و احتمالات مش خفيفة علي قلبك يبقي بلاش](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid034czusGikD4rbbbz6ZRosQqfJRaM1WgXdiDE5yL4YYb1zuTmZikxDTRW2E1ERXsEkl)
+- [.لو الدراسة النظرية العنيفة في رياضيات و علوم احصاء و احتمالات مش خفيفة علي قلبك يبقي بلاش](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid034czusGikD4rbbbz6ZRosQqfJRaM1WgXdiDE5yL4YYb1zuTmZikxDTRW2E1ERXsEkl)
 
-- [How to Become a Data Scientist](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
+- [How to Become a Data Scientist.](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
 
-- [ Data Scientist vs Data Analyst vs Data Engineer ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
+- [ Data Scientist vs Data Analyst vs Data Engineer. ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
 
 - [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
 
 - [Algorithms ](https://www.facebook.com/ahmed.metwally.official/posts/pfbid02VpEPGByRE2j1r6sdjddE4S19KKCFWtKAFViaU5B6bBS8eWwML7VocdG5usqoBfhDl)
 
-- [ Active Learning and Weak Learning](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027Xqd9pSUu2wyJNtG1NdSwnF8rRj2J5pAoq9n1x7ZNzHkzDbCrR1XexJyTqdyFpfPl)
+- [ Active Learning and Weak Learning.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027Xqd9pSUu2wyJNtG1NdSwnF8rRj2J5pAoq9n1x7ZNzHkzDbCrR1XexJyTqdyFpfPl)
 
 - [Bayesian Analysis](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02dKDSyR5kvPR7JLTVaX3GLVByrc2XTiC4hQf89PZ3bcANJ5YUTU8tSozUE8BajuALl)
 
