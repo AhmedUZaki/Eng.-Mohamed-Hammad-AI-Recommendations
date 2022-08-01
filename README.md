@@ -16,16 +16,16 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 ## Computational Thinking and Algorithms
 
-1. MIT's Introduction to Computer Science and Programming Using Python  [[Tutorial]](https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)  [Beginner]
-2. Grokking Algorithms [[Book]](https://bit.ly/3xl71jO) [Beginner]
-3. Algorithms Unplugged [[Book]](https://link.springer.com/book/10.1007/978-3-642-15328-0) [Advanced]
+1. [MIT's Introduction to Computer Science and Programming Using Python  [Tutorial]](https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)  [Beginner]
+2. [Grokking Algorithms [Book]](https://bit.ly/3xl71jO) [Beginner]
+3. [Algorithms Unplugged [Book]](https://link.springer.com/book/10.1007/978-3-642-15328-0) [Advanced]
 
 ## Probability and Statistics
 
 ### Books
 
-1. Probability For Dummies [[Book]](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1) [Beginner]
-2. The Elements of Statistical Learning [[Book]](https://hastie.su.domains/Papers/ESLII.pdf) [Advanced]
+1. [Probability For Dummies [Book]](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1) [Beginner]
+2. [The Elements of Statistical Learning [Book]](https://hastie.su.domains/Papers/ESLII.pdf) [Advanced]
 
 ### Tutorials
 
@@ -48,18 +48,18 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 ### Books
 
 1. Pattern Recognition and Machine Learning (2006) [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [Article 4 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl)
-2. Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [[Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-3. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills   [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+2. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+3. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
 4. Mastering Machine Learning Algorithms [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
 5. Machine Learning: A Probabilistic Perspective [Book] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
 ### Tutorials
 
-1. SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)  [[Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+1. [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
-2. CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo [[Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+2. [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
-3. CPSC 322: Introduction to Artificial Intelligence (UBC) [[Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html)  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+3. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html)  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
 4. Vrije Universiteit Amsterdam [Tutorial]  [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl)
 
@@ -78,12 +78,12 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 #### **Now Check the Resources Gathered in ORDER:**
 
-1. MIT RES.6-012 Introduction to Probability, Spring 2018 [[Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-2. UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [[Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
-3. Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019 **[Lecture 11 to 15 only ]**  [[Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-4. Daphne Koller - Probabilistic Graphical Models [[Courses]](https://www.coursera.org/instructor/koller)
-5.  Probabilistic Machine Learning Kevin Murphy [[Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) 
-6. Gaussian Processes for Machine Learning, MIT Press [[Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
+1. [MIT RES.6-012 Introduction to Probability, Spring 2018 [Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+2. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
+3. [Stanford CS221: Artificial Intelligence: Principles and Techniques  **[Lecture 11 to 15 only ]**  [Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+4. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller)
+5.  [Probabilistic Machine Learning Kevin Murphy [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) 
+6. [Gaussian Processes for Machine Learning, MIT Press [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
 
 
 
