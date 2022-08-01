@@ -2,13 +2,13 @@
 
 ### About
 
-This repository intended to provide a **Artificial Intelligence resources**, (based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)) 
+This repository intended to provide a **Artificial Intelligence resources**, (based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
 
 ### Content
 
 - [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
 - [Probability and Statistics](#Probability-and-Statistics)
-- [Artificial intelligence & Machine Learning](#Artificial intelligence-&-Machine-Learning)
+- [Artificial intelligence & Machine Learning](#Artificial-intelligence-&-Machine-Learning)
 - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
 - [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
 - [YouTube AI ](#YouTube-AI)
@@ -128,11 +128,4 @@ This repository intended to provide a **Artificial Intelligence resources**, (ba
 
 
 
-<div dir="rtl">
-<a href="https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W2F9NUzdLxb4QUg8AiiS1eT3gdjWRMGFa9eeoDWRUUUXBzfWQAQ3fdgANfJ4h6Zjl">لواتعلمت AI كويس هلاقي شغل ؟</a>
-<br>
-<a href="https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0jWQeVDJfm2VUppT4meZts9UpnBcDWLCsHiWyr3MqreVpEws9y3KeeK1ZJXdTZ9sYl">هتلاقي ناس كتير عاوزه  تعمل كاريير شيفت الي AI</a>
-<br>
-<a href="https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W6cWgbBcUpGU8maysD9z36LtBo1KTVCeYdXxqKSVM7NPrPEbnpRzkYzcsTKWpmoWl">لواتعلمت AI كويس هلاقي شغل ؟</a>
-<br>
-</div>
+
