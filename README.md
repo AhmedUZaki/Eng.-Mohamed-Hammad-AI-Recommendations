@@ -22,12 +22,12 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 ## Probability and Statistics
 
-#### Books
+### Books
 
 1. Probability For Dummies [[Book]](http://libgen.gs/get.php?md5=1ccb8da43945e52e3835007e053677c5&key=UWEPRE3S9Y7A5F5Q&mirr=1) [Beginner]
 2. The Elements of Statistical Learning [[Book]](https://hastie.su.domains/Papers/ESLII.pdf) [Advanced]
 
-#### Tutorials
+### Tutorials
 
 1. Planting the Seeds of Probabilistic Thinking (Probability role in Machine Learning) [Tutorial] [Beginner] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0WkBXqXiFGbJA4FWExBUdy5i413PZfGvtekRid4iwYMTD41KgFdnP9E1zH5s8KWVFl)
 
@@ -45,15 +45,15 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 
 1. 
 
-#### Books
+### Books
 
-1. **Pattern Recognition and Machine Learning (2006) [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [Article 4 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl)**
-2. **Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [[Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
-3. **Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills   [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
-4. **Mastering Machine Learning Algorithms [Book]  [Article 1 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl) [Article 2 Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)**
-5. **Machine Learning: A Probabilistic Perspective [Book] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)**
+1. Pattern Recognition and Machine Learning (2006) [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [Article 3](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [Article 4 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl)
+2. Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [[Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc)  [Article 1](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+3. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills   [Book] [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+4. Mastering Machine Learning Algorithms [Book]  [Article 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [Article 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+5. Machine Learning: A Probabilistic Perspective [Book] [Article Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
-#### Tutorials
+### Tutorials
 
 1. SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)  [[Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [Article link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
 
@@ -76,7 +76,7 @@ This repository intended to provide a **Artificial Intelligence resources**, bas
 1. [First Check The Article](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)
 2. [Then Check Eng. Hammad Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes)
 
-**Now Check the Resources Gathered in ORDER:**
+#### **Now Check the Resources Gathered in ORDER:**
 
 1. MIT RES.6-012 Introduction to Probability, Spring 2018 [[Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 2. UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [[Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
