@@ -8,7 +8,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ***Notice***
 
-> **Each resource follows the article in which the source was nominated
+> **Each resource follows the article in which the source was nominated, 
 > Make sure you read it carefully before starting the curriculum**
 
 ### Content
