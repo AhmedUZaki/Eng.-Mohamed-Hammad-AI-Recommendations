@@ -8,8 +8,10 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ***Notice***
 
-> **Each resource follows the article in which the source was nominated, 
-> Make sure you read it carefully before starting the curriculum.**
+> **Each resource is accompanied by the post at which it got recommended; so that you won't feel lost choosing one over the other. 
+> Make sure to check them out before beginning your journey.**
+>
+> **The referring links for the [Book]s are being updated gradually.**
 
 ### Content
 
@@ -91,8 +93,8 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 > **The Resources in this section are ordered:**
 
-1. [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)
-2. [Then Check Eng. Hammad Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes)
+1. [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493).
+2. [Then Check Eng. Hammad Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes).
 
 #### **Now Check the Resources Gathered in ORDER:**
 
