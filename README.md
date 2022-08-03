@@ -2,11 +2,11 @@
 
 Self learning **AI** curriculum.
 
-#### About
+### About
 
 This repository is intended to provide **Artificial Intelligence** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
 
-#### Content
+### Content
 
 - [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
 - [Mathematics](#Mathematics)
@@ -217,7 +217,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ## Credits
 
-This repository is nothing but a compilation of the great work done by Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/). And thanks to [Eyad Hamza](https://github.com/Eyadhamza) for this great idea. ;)
+This repository is nothing but a compilation of the great work done by Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/), And thanks to [Eyad Hamza](https://github.com/Eyadhamza) for this great idea. ;)
 
 
 
