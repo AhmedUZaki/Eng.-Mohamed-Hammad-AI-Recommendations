@@ -9,7 +9,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 ***Notice***
 
 > **Each resource follows the article in which the source was nominated, 
-> Make sure you read it carefully before starting the curriculum**
+> Make sure you read it carefully before starting the curriculum.**
 
 ### Content
 
@@ -137,7 +137,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ## Articles 
 
-#### General 
+### General 
 
 - [فقدان الشغف. ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wprwfY4UqBeA6TvrEn9BPFr1H1qbChnnJCP6z5VFEbP8aRvrHNdjCjd9NwSzGV9Hl)
 - [لو اتعلمت AI كويس هلاقي شغل ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02W2F9NUzdLxb4QUg8AiiS1eT3gdjWRMGFa9eeoDWRUUUXBzfWQAQ3fdgANfJ4h6Zjl)
@@ -176,7 +176,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 - [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
 
 
-####  Artificial intelligence & Machine Learning
+###  Artificial intelligence & Machine Learning
 
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
@@ -193,7 +193,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 - [#Probabilistic_Modeling Session 1 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vNmZSG1rZEUY9eLCSqkyurwPF4KUX1vUU9yLTbFKHvpDVaSnoPK24W3RA3xpva9ml)
 - [#Probabilistic_Modeling Session 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0HrrkB9Lg7iAUt4hT1vSuBsAu1NP7zeBwUX1MHTQgXMxyry8fX4pgZ359q9mjdPabl)
 
-#### Neural Networks and Deep Learning
+### Neural Networks and Deep Learning
 
 - [طول بالك للاخر لو  بتستعمل DL.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDenGHenYF2Vb6GwCyXeoCKGPGmBkEsmixtFqbYCGccMfpxFGvCzbNcWkPv2frvLl)
 - [قبل ما تاخد قرار انك تهتم بال Deep Learning.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02fzjMXFTvkunHkq6v4hEDvUxu6MYCv1zKitoUt23WfhB1kbmouWCUq9uRj8xxjGb4l)
@@ -214,7 +214,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 - [Universal Function Approximation](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0xz2SewamwUWfuJPGekfWg1RxpTgZB1em4kzmURMatKc4SPvCgaS3KxANW8bTMLXYl)
 - [Symbolic Integration](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vBC5zJjYUAcsoBAnFquuTKQnd2KQv1cv86GKtCBBZrYtyPwW4HYWtLENhSRuBXSil)
 
-#### Shares
+### Shares
 
 - [.دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
 - [Algorithms](https://www.facebook.com/ahmed.metwally.official/posts/pfbid02VpEPGByRE2j1r6sdjddE4S19KKCFWtKAFViaU5B6bBS8eWwML7VocdG5usqoBfhDl)
