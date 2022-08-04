@@ -129,7 +129,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ## YouTube AI Channels
 
-1. [Tübingen Machine Learning - YouTube](https://www.youtube.com/c/TübingenML/playlists)
+1. [Tübingen Machine Learning - ](https://www.youtube.com/c/TübingenML/playlists)[Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0CYtN6rdKxM3PQpBRsqfQZ1qb57kcHZ58ve4qKxw8McLxbfwFDLizMwuhqWpZS6jvl)
 2. .[Kapil Sachdeva - ](https://www.youtube.com/c/KapilSachdeva/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 3. [Meerkat Statistics - ](https://www.youtube.com/c/MeerkatStatistics/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 4. [Machine Learning and AI Academy - ](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
@@ -207,6 +207,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 - [Transformer يحول كود من لغه برمجه الي اخري.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ovcdwvHyxpW8ZEyoxjx6H4CpfusCAu9Rwh91D2ujMDBtDepG5FQBrMAQnm2KjvqKl)
 - [ليه Gaussian شائع الاستخدام في تطبيقات ال Probability عبر مختلف التكنيكس ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DYKqP15DwPae2BAJ16A8ZeoHZ7r5MGt4X266w9iSijMCe6jGgJQfKnEn7LKreZTl)
 - [قبل اي محاولة لتعلم Probabilistic Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02qQ1yJQVjx1edYVT1Sm9YbFg6vzukF86JXZU4V4haQNpaUgqTh1xcwiweNHgKGVBbl)
+- [اذا كنت مهتم بال Deep Learning  و عندك عنه  Graduate Knowledge خليك معايا ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0Gx13mXKxU3nFMpvw78SKD1Kxdr63zBtGyma1j2UtHKjAJaPT4r8wZyxeU4xC43Rwl)
 - [ Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vQJGELDoPp5vv6Pec1CZchH98YoWiwREdf8VtGyFen3aCe88Cdps8ZJ1Csx4FPbMl)
 - [Neural Networks & Functional Programming](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BGjQJmt9uy1dAPiWuTWkveSFfe9uPjhZkPqmusijYh4Aq6h65vqYeGp5QWWTBwfdl)
 
