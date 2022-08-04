@@ -135,7 +135,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 4. [Machine Learning and AI Academy - ](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 5. [DeepFindr - ](https://www.youtube.com/c/DeepFindr/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 6. [The AI Epiphany - ](https://www.youtube.com/c/TheAIEpiphany/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
-7. [The Math Sorcerer - YouTube](https://www.youtube.com/c/TheMathSorcerer/playlists)
+7. [The Math Sorcerer](https://www.youtube.com/c/TheMathSorcerer/playlists)
 
 ## Posts 
 
@@ -219,7 +219,7 @@ This repository is intended to provide **Artificial Intelligence** resources bas
 
 ### Shares
 
-- [.دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
+- [دور علي الخبرة اللي هتبني عليها مستقبلك المهني، مش علي اسم ولا فلوس](https://www.facebook.com/groups/big.data.egypt/posts/2852581388334377/)
 - [Algorithms](https://www.facebook.com/ahmed.metwally.official/posts/pfbid02VpEPGByRE2j1r6sdjddE4S19KKCFWtKAFViaU5B6bBS8eWwML7VocdG5usqoBfhDl)
 - [Deep Learning From Scratch I: Computational Graphs - sabinasz.net](https://www.sabinasz.net/deep-learning-from-scratch-i-computational-graphs/?fbclid=IwAR33NWgx_tONyh80-suZ2OabJUs__r81kZFkVw3Hfn4jOgycCj2NSzOh5v4)
 
