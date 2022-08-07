@@ -129,6 +129,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 6. [MIT Deep Learning in Life Sciences 6.874 Spring 2020 [Tutorial]](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB)  [Syllabus ](https://mit6874.github.io/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0JpSpb4rrpKT49wtU8tgrxeAcUKShzjbwh3Zj9hUJSnPcqWcvmZ5zqfqyiKxsRZSjl)
 7. [MIT Deep Learning in Life Sciences  (Spring 2021) [Tutorial]](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02fEihgowrU2A43L7p7WGwug9mVV9Q93D1FVKHLiHzps2thLGsBNfXaLDBSxcGGhPql)
 8. [CS 182: Deep Learning (Spring 2021) [Tutorial]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
+9. [Deep Learning With PyTorch - Full Course [Tutorial]](https://www.youtube.com/watch?v=c36lUUr864M) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
 
 ## YouTube AI Channels
 
@@ -175,6 +176,10 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [ليه دايما هتلاقي الناس بتنصحك تتعلم من فيديوز الاول و بعدين من الكتب.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0Yn2AkgMGfPYG5kDzw34NNEDa6kqxw93rCWwUx6tXJUbjSrWtsiqiEhxViosC7RqAl)
 
 - [Summer Schools مخصصه للخريجين](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0T2vuCYQf8qf1dUCKPxjcDo9uLqwLA5C5LhBNcjHeULBSSTFMUndrJFP3dSqcRCTKl)
+
+- [انا ودعت TensorFlow لصالح PyTorch من حوالي سنة.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0D4bQqPkdWN7W29sHpEqhL48dowoSRRNyiTt1UFNB69eJ4aMHxStxmtrW8cxQgGK7l)
+
+- [لو مستخدمتش PyTorch حتي الان جربه و مش هتندم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
 
 - [The Dark Side of Self Study](https://www.youtube.com/watch?v=g7MSfHEdxXs&t=491s)
 
