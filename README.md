@@ -182,13 +182,14 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 
 ###  Artificial intelligence & Machine Learning
-
+<div dir="rtl">
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
 - [كلام مهم جدا للمهتمين ML,AI.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02omDu2VPN8BE41puij1khM4KexWsuPutUyfyaLHDYoJmUE97PvB8tYphBnGEoGhGdl)
 - [طيب يا عمو انا عاوز ابقي من الفريق الاول اللي هم فعلا Data scientists , اعمل ايه ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0TVaSbzZfewuzrdVmsik2nub5pqF4V4xRARdLmVz9E99gdguBezbvx7a6C7VxY9kel)
 - [ لو واجهتني مشكله جديده علي و دورت في الحل و لقيت ابحاث بتحلها مش بعرف اقرا الابحاث و بلاقي فيها طلاسم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0sYjfw5JXaSoarb8MBtGJQX8B1FdVnhrZxmB9LM2cwRxnCPpu735x1gqGPqCBRmAGl)
 - [تقريبا اي حد بيحاول يفهم Machine Learning كويس بيحتاج يتفسح في نصف العلوم اللي عملها البشر.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0PgY3onypdoiM9drxvscxkhEQLTgwXGCzyYBoDWVNCmkH214w4K7vZ1xtFQfWz6S3l)
+</div>
 - [How to Become a Data Scientist.](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
 - [Data Scientist vs Data Analyst vs Data Engineer.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
 - [Bayesian Analysis.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02dKDSyR5kvPR7JLTVaX3GLVByrc2XTiC4hQf89PZ3bcANJ5YUTU8tSozUE8BajuALl)
