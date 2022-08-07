@@ -27,9 +27,10 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Computational Thinking and Algorithms
 
-1. [MIT's Introduction to Computer Science and Programming Using Python  [Tutorial]](https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)  [Beginner]
-2. [Grokking Algorithms [Book]](https://bit.ly/3xl71jO) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02FoVPsAsk939y1LFSfs88qqGHn1oFw5EuTtw7E1c5tfG65QNgvqGVJ8rnjJvTw4u1l) [Beginner]
-3. [Algorithms Unplugged [Book]](https://link.springer.com/book/10.1007/978-3-642-15328-0) [Advanced]
+1. [MIT's Introduction to Computer Science and Programming Using Python [Tutorial]](https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)  [Beginner]
+2. [Stanford - Programming Paradigms [Tutorial]](https://www.youtube.com/playlist?list=PLzi8dDyr-I0k4TrPGf6V1DPXuQss9WBF1) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul) [Beginner]
+3. [Grokking Algorithms [Book]](https://bit.ly/3xl71jO) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02FoVPsAsk939y1LFSfs88qqGHn1oFw5EuTtw7E1c5tfG65QNgvqGVJ8rnjJvTw4u1l) [Beginner]
+4. [Algorithms Unplugged [Book]](https://link.springer.com/book/10.1007/978-3-642-15328-0) [Advanced]
 
 ## Mathematics
 
@@ -76,17 +77,18 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 ### Tutorials
 
 1. [MITx 6.00.2x, Introduction to Computational Thinking and Data Science [Tutorial]](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) **[What is DATA Science ? - Entry Course]** [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0VmW6AM1DSqMWqNg72pYTH9gQpekvpYjfykbMdckNudocBn56Po2JPa2xuYX4qUrZl)
-2. [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
+2. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
 3. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
 4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
-5. [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [[Post 1] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
+5. [SYDE 522: Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [[Post 1] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
 6. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
-7. [Machine Learning Specialization - Andrew Ng [Specialization] ](https://www.coursera.org/specializations/machine-learning-introduction?fbclid=IwAR233eAUbOt9A0ezO6jKWcK1RPhn99zi53r_FyNdO8RtHo9ZQT03Yoz7rbM) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid036Ws6y9z29V7LL5eF1oJUDHXdHX6u8PdhLes4d1AE1GUDkvupi3CZboxtQaeg27srl)
+7. [MLVU2019: VU Machine Learning 2019 [Tutorial]](https://www.youtube.com/playlist?list=PLCof9EqayQgupldnTvqNy_BThTcME5r93) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
 8. Vrije Universiteit Amsterdam [Tutorial]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0A7MBgVa7GUoRjS31i526X395yssfZccNmCCLPrLqQdXJ4DBBJypPVTzi2GC4uCybl)
 
-   - [Machine Learning @ VU | MLVU](https://mlvu.github.io/?fbclid=IwAR359JZSY34SDo0k33X8mgqd-tKJuQbnp0i9fqof7YLBgp1sByd1dOqYE4c)
-   - [Deep Learning @ VU | DLVU](https://dlvu.github.io/?fbclid=IwAR33skW4Il_IFDk1GoHd3pfvF_2DUUX8SQGjGQI4cN_Bjhlobk4gpFvkMXg)
-9. [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)  [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
+   - [Machine Learning @ VU | MLVU](https://mlvu.github.io)
+   - [Deep Learning @ VU | DLVU](https://dlvu.github.io)
+9. [Deep Learning Drizzle [Roadmap]](https://deep-learning-drizzle.github.io)  [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
+10. [Machine Learning Specialization - Andrew Ng [Specialization]](https://www.coursera.org/specializations/machine-learning-introduction?fbclid=IwAR233eAUbOt9A0ezO6jKWcK1RPhn99zi53r_FyNdO8RtHo9ZQT03Yoz7rbM) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid036Ws6y9z29V7LL5eF1oJUDHXdHX6u8PdhLes4d1AE1GUDkvupi3CZboxtQaeg27srl)
 
 
 ## Probabilistic Machine Learning
@@ -126,6 +128,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 5. [Theoretical Foundations of Graph Neural Networks (GNNS) [Tutorial]](https://www.youtube.com/watch?v=uF53xsT7mjc) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0YE8Y72gsu3LTFRRfx1wqDFoWoQTtq2rbh5nJPeBA3VpSRGn5tFPyeqkh8hBtrY6jl)
 6. [MIT Deep Learning in Life Sciences 6.874 Spring 2020 [Tutorial]](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB)  [Syllabus ](https://mit6874.github.io/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0JpSpb4rrpKT49wtU8tgrxeAcUKShzjbwh3Zj9hUJSnPcqWcvmZ5zqfqyiKxsRZSjl)
 7. [MIT Deep Learning in Life Sciences  (Spring 2021) [Tutorial]](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02fEihgowrU2A43L7p7WGwug9mVV9Q93D1FVKHLiHzps2thLGsBNfXaLDBSxcGGhPql)
+8. [CS 182: Deep Learning (Spring 2021) [Tutorial]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
 
 ## YouTube AI Channels
 
