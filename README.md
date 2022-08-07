@@ -124,7 +124,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 1. [NPTEL | Deep Learning- Part 1, IIT Ropar [Tutorial]](https://nptel.ac.in/courses/106106184?fbclid=iwar0savgoctr1ryf6obnwmk5vgj0zr85q_0xrmpaee4g0q4s_qs8hdqe0x0m) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0rDR4uax6HxTvRSKsvG3jbx5Tv6f69UnvRkXvzPSfxzAXPAA6FaKwasS7VvyAsfNHl)
 2. [NPTEL | Deep Learning - Part 2, IIT Madras [Tutorial]](https://nptel.ac.in/courses/106106201?fbclid=iwar0wu4utgen3jf4ocwit6r9el4iluitexwqz7whe8csx_jc-gt8678p7yis) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0rDR4uax6HxTvRSKsvG3jbx5Tv6f69UnvRkXvzPSfxzAXPAA6FaKwasS7VvyAsfNHl)
 3. [Neural networks class - Université de Sherbrooke | Hugo Larochelle [Tutorial]](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)  [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02T5z9aXMz1v7oMKBAgB2oYqgoYtNA4bhq9XTig1EFbGs9H6a5RoSVQyj2FcJAtmrnl)
-4. [Neural Networks for Machine Learning by Geoffrey Hinton (Coursera 2013) [Tutorial]]([Lecture 1/16 : Introduction - YouTube](https://www.youtube.com/watch?v=2fRnHVVLf1Y&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0)) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0gdRgBLKGHJoLorjCmFhqjK1wuKVByRgTf1wjzrmQt4Y4bMy9AZUpKk8AjaqABYXcl)
+4. [Neural Networks for Machine Learning by Geoffrey Hinton (Coursera 2013) [Tutorial]](https://www.youtube.com/watch?v=2fRnHVVLf1Y&list=PLiPvV5TNogxKKwvKb1RKwkq2hm7ZvpHz0) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0gdRgBLKGHJoLorjCmFhqjK1wuKVByRgTf1wjzrmQt4Y4bMy9AZUpKk8AjaqABYXcl)
 5. [Theoretical Foundations of Graph Neural Networks (GNNS) [Tutorial]](https://www.youtube.com/watch?v=uF53xsT7mjc) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0YE8Y72gsu3LTFRRfx1wqDFoWoQTtq2rbh5nJPeBA3VpSRGn5tFPyeqkh8hBtrY6jl)
 6. [MIT Deep Learning in Life Sciences 6.874 Spring 2020 [Tutorial]](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB)  [Syllabus ](https://mit6874.github.io/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0JpSpb4rrpKT49wtU8tgrxeAcUKShzjbwh3Zj9hUJSnPcqWcvmZ5zqfqyiKxsRZSjl)
 7. [MIT Deep Learning in Life Sciences  (Spring 2021) [Tutorial]](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02fEihgowrU2A43L7p7WGwug9mVV9Q93D1FVKHLiHzps2thLGsBNfXaLDBSxcGGhPql)
@@ -182,14 +182,14 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 
 ###  Artificial intelligence & Machine Learning
-<div dir="rtl">
+
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
 - [كلام مهم جدا للمهتمين ML,AI.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02omDu2VPN8BE41puij1khM4KexWsuPutUyfyaLHDYoJmUE97PvB8tYphBnGEoGhGdl)
 - [طيب يا عمو انا عاوز ابقي من الفريق الاول اللي هم فعلا Data scientists , اعمل ايه ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0TVaSbzZfewuzrdVmsik2nub5pqF4V4xRARdLmVz9E99gdguBezbvx7a6C7VxY9kel)
 - [ لو واجهتني مشكله جديده علي و دورت في الحل و لقيت ابحاث بتحلها مش بعرف اقرا الابحاث و بلاقي فيها طلاسم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0sYjfw5JXaSoarb8MBtGJQX8B1FdVnhrZxmB9LM2cwRxnCPpu735x1gqGPqCBRmAGl)
 - [تقريبا اي حد بيحاول يفهم Machine Learning كويس بيحتاج يتفسح في نصف العلوم اللي عملها البشر.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0PgY3onypdoiM9drxvscxkhEQLTgwXGCzyYBoDWVNCmkH214w4K7vZ1xtFQfWz6S3l)
-</div>
+
 - [How to Become a Data Scientist.](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
 - [Data Scientist vs Data Analyst vs Data Engineer.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
 - [Bayesian Analysis.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02dKDSyR5kvPR7JLTVaX3GLVByrc2XTiC4hQf89PZ3bcANJ5YUTU8tSozUE8BajuALl)
