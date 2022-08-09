@@ -4,7 +4,7 @@ Self learning **AI** curriculum.
 
 ### About
 
-This repository is intended to provide **Artificial Intelligence, Machine Learning and Deep Learning** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
+This repository is intended to provide **Artificial Intelligence, Machine Learning, and Deep Learning** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
 
 ***Notice***
 
