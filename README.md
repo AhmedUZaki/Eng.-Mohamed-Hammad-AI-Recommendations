@@ -58,7 +58,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
    - [Shakir Mohamed Planting the Seeds of Probabilistic Thinking Part 3 - YouTube](https://www.youtube.com/watch?v=yachHELNsz4&t=1s)
 
-2. [ANU Statistical Machine Learning 2022 COMP4670/8600 [Tutorial]](https://www.youtube.com/playlist?list=PLsnY40UwmQZK5wtciniEjDe-DnE0ZpCbL) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid06g3cigViufh4PiMhaJGLTuScSrW9AJ2itPc2nmkogGfLDxZcrirnUFekakFDLrfAl)
+2. [ANU Statistical Machine Learning 2022 COMP4670/8600 [Tutorial]](https://www.youtube.com/playlist?list=PLsnY40UwmQZK5wtciniEjDe-DnE0ZpCbL) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid06g3cigViufh4PiMhaJGLTuScSrW9AJ2itPc2nmkogGfLDxZcrirnUFekakFDLrfAl)
 
 
 
@@ -106,7 +106,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 #### **Now Check the Resources Gathered in ORDER:**
 
 1. [MIT RES.6-012 Introduction to Probability, Spring 2018 [Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-2. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
+2. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) [[Arabic Edition]](https://www.youtube.com/playlist?list=PLRdABJkXXytC-Lhmyj1cDl-EfnoGI56x7)
 3. [Stanford CS221: Artificial Intelligence: Principles and Techniques  **[Lecture 11 to 15 only ]** [Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 4. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
 5.  [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
