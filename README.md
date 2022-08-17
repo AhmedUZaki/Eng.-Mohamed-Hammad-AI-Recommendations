@@ -85,8 +85,6 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Probabilistic Machine Learning
 
-> **The Resources in this section are ordered:**
-
 ✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)  [`Date:` August 2021]
 
 #### **Now Check the Resources Gathered in ORDER:**
