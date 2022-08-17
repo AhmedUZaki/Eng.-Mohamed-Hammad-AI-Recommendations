@@ -26,9 +26,15 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
   - [Get three years of experience](#Get-three-years-of-experience)
   - [Already have experience?](#Already-have-experience?)
 - [Artificial intelligence & Machine Learning](#Artificial-intelligence-&-Machine-Learning)
-- [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
+- [Neural Networks & Deep Learning](#Neural-Networks-&-Deep-Learning)
 - [YouTube AI Channels](#YouTube-AI-Channels)
 - [Posts](#Posts )
+  
+  - [General](#General)
+  
+  - [Artificial intelligence and Machine Learning](#Artificial-intelligence-and-Machine-Learning)
+  - [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
+  
 - [Credits](#Credits)
 
 # Prerequisites 
@@ -46,7 +52,9 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 2. [Mathematics for Machine Learning [Tutorial ]](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02rSC5nqiTe8HbsfdCUi2hKfHRuvaEexVfSbg3ZDhrEte2HPVEqrF4F6BQNhPAoyfUl)
 3. [Discrete Mathematics and Its Applications - 7th Edition- [Chapter 10 - Graphs]](https://bit.ly/3JzSsPV) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/203660833076016)
 
-## Probability and Statistics (Why? [ [Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0335SuQKUenU2tVqLoVTV1QehkpwBuPEX6NA3hc6WTUtbxHaMqQkfHcXBNTZHysxLvl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BzzktSc32oaTtZNcwEvRD3EMSAHPz5yrht58Rsu4Z9ZsPesJFCnvghStCvP79A7xl) )
+## Probability and Statistics 
+
+### Why? [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0335SuQKUenU2tVqLoVTV1QehkpwBuPEX6NA3hc6WTUtbxHaMqQkfHcXBNTZHysxLvl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BzzktSc32oaTtZNcwEvRD3EMSAHPz5yrht58Rsu4Z9ZsPesJFCnvghStCvP79A7xl) 
 
 ### Books
 
@@ -155,7 +163,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
    - [Deep Learning @ VU | DLVU](https://dlvu.github.io)
 4. [Deep Learning Drizzle [Roadmap]](https://deep-learning-drizzle.github.io) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
 
-# Neural Networks and Deep Learning
+# Neural Networks & Deep Learning
 
 ### Books
 
@@ -234,7 +242,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
 
 
-###  Artificial intelligence & Machine Learning
+###  Artificial intelligence and Machine Learning
 
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
