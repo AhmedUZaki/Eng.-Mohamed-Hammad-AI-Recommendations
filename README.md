@@ -20,8 +20,8 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
   - [Probability and Statistics](#Probability-and-Statistics)
 
 - [Mini Roadmaps](#Mini-Roadmaps)
-  - [ML and Data Science](#ML-and-Data-Science)
   - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
+  - [ML and Data Science](#ML-and-Data-Science)
   - [Roadmap for AI](#Roadmap-for-AI)
   - [Get three years of experience](#Get-three-years-of-experience)
   - [Already have experience?](#Already-have-experience)
@@ -78,19 +78,6 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 # Mini Roadmaps 
 
-## ML and Data Science 
-
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)  [`Date:` June 2020]
-
-#### **Now Check the Resources Gathered in ORDER:**
-
-1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY)
-2. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) 
-3. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
-4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) 
-5. Bayesian Reasoning and Machine Learning [Book]
-6. Python Data Science Handbook [Book]
-
 ## Probabilistic Machine Learning
 
 ✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)  [`Date:` August 2021]
@@ -104,6 +91,19 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 5. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
 6. [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
 7. [Gaussian Processes for Machine Learning, MIT Press [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
+
+## ML and Data Science 
+
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)  [`Date:` June 2020]
+
+#### **Now Check the Resources Gathered in ORDER:**
+
+1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY)
+2. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) 
+3. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
+4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) 
+5. Bayesian Reasoning and Machine Learning [Book]
+6. Python Data Science Handbook [Book]
 
 ## Roadmap for AI 
 
@@ -292,7 +292,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Credits
 
-This repository is nothing but a compilation of the great work done by Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/), And thanks to [Eyad Hamza](https://github.com/Eyadhamza) for this great idea. ;)
+This repository is nothing but a compilation of the great work done by Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/), and thanks to [Eyad Hamza](https://github.com/Eyadhamza) for this great idea. ;)
 
 
 
@@ -301,6 +301,3 @@ This repository is nothing but a compilation of the great work done by Eng. [Moh
 
 
  
-
-
-
