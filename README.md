@@ -32,7 +32,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
   
   - [General](#General)
   
-  - [Machine Learning](Machine-Learning)
+  - [Machine Learning](#Machine-Learning)
   - [Deep Learning](#Deep-Learning)
   
 - [Credits](#Credits)
