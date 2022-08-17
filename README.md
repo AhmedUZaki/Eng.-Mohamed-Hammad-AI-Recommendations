@@ -24,16 +24,16 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
   - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
   - [Roadmap for AI](#Roadmap-for-AI)
   - [Get three years of experience](#Get-three-years-of-experience)
-  - [Already have experience?](#Already-have-experience?)
-- [Artificial intelligence & Machine Learning](#Artificial-intelligence-&-Machine-Learning)
-- [Neural Networks & Deep Learning](#Neural-Networks-&-Deep-Learning)
+  - [Already have experience](#Already-have-experience)
+- [Artificial intelligence and Machine Learning](#Artificial-intelligence-and-Machine Learning)
+- [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
 - [YouTube AI Channels](#YouTube-AI-Channels)
 - [Posts](#Posts )
   
   - [General](#General)
   
-  - [Artificial intelligence and Machine Learning](#Artificial-intelligence-and-Machine-Learning)
-  - [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
+  - [Machine Learning](Machine-Learning)
+  - [Deep Learning](#Deep-Learning)
   
 - [Credits](#Credits)
 
@@ -139,7 +139,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 3. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc) [[Post 1]](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
 4. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) 
 
-# Artificial intelligence & Machine Learning
+# Artificial intelligence and Machine Learning
 
 ### Books
 
@@ -163,7 +163,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
    - [Deep Learning @ VU | DLVU](https://dlvu.github.io)
 4. [Deep Learning Drizzle [Roadmap]](https://deep-learning-drizzle.github.io) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
 
-# Neural Networks & Deep Learning
+# Neural Networks and Deep Learning
 
 ### Books
 
@@ -242,7 +242,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
 
 
-###  Artificial intelligence and Machine Learning
+###  Machine Learning
 
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
@@ -262,7 +262,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [#Probabilistic_Modeling Session 1 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vNmZSG1rZEUY9eLCSqkyurwPF4KUX1vUU9yLTbFKHvpDVaSnoPK24W3RA3xpva9ml)
 - [#Probabilistic_Modeling Session 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0HrrkB9Lg7iAUt4hT1vSuBsAu1NP7zeBwUX1MHTQgXMxyry8fX4pgZ359q9mjdPabl)
 
-### Neural Networks and Deep Learning
+### Deep Learning
 
 - [طول بالك للاخر لو  بتستعمل DL.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDenGHenYF2Vb6GwCyXeoCKGPGmBkEsmixtFqbYCGccMfpxFGvCzbNcWkPv2frvLl)
 - [قبل ما تاخد قرار انك تهتم بال Deep Learning.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02fzjMXFTvkunHkq6v4hEDvUxu6MYCv1zKitoUt23WfhB1kbmouWCUq9uRj8xxjGb4l)
