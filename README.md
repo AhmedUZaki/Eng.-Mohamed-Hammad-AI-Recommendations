@@ -2,28 +2,36 @@
 
 Self learning **AI / Data Science** curriculum.
 
-### About
+## About
 
-This repository is intended to provide **Artificial Intelligence, Machine Learning, and Deep Learning** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
+This repository is intended to provide **Artificial Intelligence, Machine Learning, and Deep Learning** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/).
 
 ***Notice***
 
-> **Each resource is accompanied by the post at which it got recommended; so that you won't feel lost choosing one over the other. 
-> Make sure to check them out before beginning your journey.**
->
-> **The referring links for the [Book]s are being updated gradually.**
+> **Each resource is accompanied by the post at which it got recommended; so that you won't feel lost choosing one over the other, Make sure to check them out before beginning your journey.**
+> 
+>**The referring links for the [Book]s are being updated gradually.**
 
-### Content
+## Content
 
-- [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
-- [Mathematics](#Mathematics)
-- [Probability and Statistics](#Probability-and-Statistics)
+- [Prerequisites:](#Prerequisites)
+  - [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
+  - [Mathematics](#Mathematics)
+  - [Probability and Statistics](#Probability-and-Statistics)
+
+- [Mini Roadmaps](#Mini-Roadmaps)
+  - [ML and Data Science](#ML-and-Data-Science)
+  - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
+  - [Roadmap for AI](#Roadmap-for-AI)
+  - [Get three years of experience](#Get-three-years-of-experience)
+  - [Already have experience?](#Already-have-experience?)
 - [Artificial intelligence & Machine Learning](#Artificial-intelligence-&-Machine-Learning)
-- [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
 - [Neural Networks and Deep Learning](#Neural-Networks-and-Deep-Learning)
 - [YouTube AI Channels](#YouTube-AI-Channels)
 - [Posts](#Posts )
 - [Credits](#Credits)
+
+# Prerequisites 
 
 ## Computational Thinking and Algorithms
 
@@ -50,7 +58,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ### Tutorials
 
-1. Planting the Seeds of Probabilistic Thinking (Learn Probability role in Machine Learning) [Tutorial] [Beginner] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0WkBXqXiFGbJA4FWExBUdy5i413PZfGvtekRid4iwYMTD41KgFdnP9E1zH5s8KWVFl)
+1. ​	Planting the Seeds of Probabilistic Thinking (Learn Probability role in Machine Learning) [Tutorial] [Beginner] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0WkBXqXiFGbJA4FWExBUdy5i413PZfGvtekRid4iwYMTD41KgFdnP9E1zH5s8KWVFl)
 
    - [Shakir Mohamed Planting the Seeds of Probabilistic Thinking Part 1 - YouTube](https://www.youtube.com/watch?v=hlVayKW8v9M)
 
@@ -60,59 +68,91 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 2. [ANU Statistical Machine Learning 2022 COMP4670/8600 [Tutorial]](https://www.youtube.com/playlist?list=PLsnY40UwmQZK5wtciniEjDe-DnE0ZpCbL) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid06g3cigViufh4PiMhaJGLTuScSrW9AJ2itPc2nmkogGfLDxZcrirnUFekakFDLrfAl)
 
+# Mini Roadmaps 
 
+## ML and Data Science 
 
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)  [`Date:` June 2020]
 
-## Artificial intelligence & Machine Learning
+#### **Now Check the Resources Gathered in ORDER:**
+
+1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY)
+2. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) 
+3. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
+4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) 
+5. Bayesian Reasoning and Machine Learning [Book]
+6. Python Data Science Handbook [Book]
+
+## Probabilistic Machine Learning
+
+> **The Resources in this section are ordered:**
+
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)  [`Date:` August 2021]
+
+#### **Now Check the Resources Gathered in ORDER:**
+
+1. [Eng. Hammad ITI Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes)
+2. [MIT RES.6-012 Introduction to Probability, Spring 2018 [Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+3. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) [[Arabic Edition]](https://www.youtube.com/playlist?list=PLRdABJkXXytC-Lhmyj1cDl-EfnoGI56x7)
+4. [Stanford CS221: Artificial Intelligence: Principles and Techniques  **[Lecture 11 to 15 only ]** [Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+5. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
+6. [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
+7. [Gaussian Processes for Machine Learning, MIT Press [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
+
+## Roadmap for AI 
+
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)  [`Date:` September 2021]
+
+#### **Now Check the Resources :**
+
+1. [SYDE 522: Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [[Lecture notes]](https://github.com/KimiaLab/SYDE-522) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
+
+2. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
+
+3. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
+4. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc) [[Post 1]](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [[Post 2] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+5. Machine Learning: A Probabilistic Perspective [Book] [Advanced] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02UCrhqNxK9UEnkK1yB633K8Es1mA5YNjd1RTMJZjtsUgoyJQVhFNgdYukr7PQbUP7l),[[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02SyDUiRrA8rqcj3Gs1QHLpBEzvCDX4cwUBFSuJPV2vmPJjhn6DZujmiVJYTQRXCaHl)
+
+## Get three years of experience 
+
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl)  [`Date:` June 2022]
+
+1. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+2. Mastering Machine Learning Algorithms [Book]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+
+## Already have experience?
+
+✅  [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [`Date:` January 2021]
+
+1. Mastering Machine Learning Algorithms - Second Edition [Book]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+2. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+3. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc) [[Post 1]](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+4. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) 
+
+# Artificial intelligence & Machine Learning
 
 ### Books
 
 1. [EBooks (machinelearningmastery.com)](https://machinelearningmastery.com/products/?fbclid=IwAR2I0tjmWOqwY6xvtfVCbpJCO40DEvTUbM37R2i6GWDhPgG1afHoDxIdnhs) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02hEovB1bBUtAN8dMAyJg8Tw8bQuLULzkfe8V56gYSh5vqkj8UznV2PU1gNqE4JyqBl?comment_id=5827976197274882&reply_comment_id=5827985253940643)
 2. Artificial Intelligence,A Guide to Intelligent Systems (2001) [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0tnhrLAPohGCZFkFCPsatyMFsWkVJaMTaeNag7BUBVRHf3a93TMw6oH4i5D36f3HWl)
 3. [Pattern Recognition and Machine Learning (2006) [Christopher Bishop] [Book]](http://library.lol/main/6B552B24CAE380BB656F7AAEF7F81B46) [[Tutorial]](https://www.youtube.com/watch?v=SIa0701Sji0) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid023CeyGSujorL7zXW31fPAKXy9yqje7avwpLdTUXyiSAD5BEF3U9grWABATL3uU9pvl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid024NNC3LV7EnhvZibW55P5wR9r7AN9zVkgJMZmdcx1Q5Ge8KpQo6cYm1YP3Dvy4vXgl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02Frf4Xp87DszBHCmbsoyuoZXF1omxY3J3Cm417ybwh6Ko4tJGBPEC9wRP5UBh1Kyjl), [[Post 4]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid029Tfq9MHhYkrWjSE7uwQzjYBYUa5QtnZrnQebp4hFtSPkd5YXCZmJcQJjxWirnVujl), [[Post 5]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
-4. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc) [[Post 1]](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [[Post 2] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-5. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-6. Mastering Machine Learning Algorithms [Book]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-7. Bayesian Reasoning and Machine Learning [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
-8. Python Data Science Handbook [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDYRSrFumu8hsV9LVZZ2FafBK9X2epM61bJ4JmVNmVXuSpBa8XhMgZsETPSFoLefl)
-9. Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking  [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02jVrv6yddgovwRykXTVjp9kb4JwKxtmsCki918RFHRRR64aGedSVVMD1diEBZWMZkl)
-10. Machine Learning: A Probabilistic Perspective [Book] [Advanced] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) [[Post 2] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02UCrhqNxK9UEnkK1yB633K8Es1mA5YNjd1RTMJZjtsUgoyJQVhFNgdYukr7PQbUP7l)[[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02SyDUiRrA8rqcj3Gs1QHLpBEzvCDX4cwUBFSuJPV2vmPJjhn6DZujmiVJYTQRXCaHl)
-11. Bayesian Reasoning and Machine Learning [Book] [Advanced] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02rXSB33DqszfeQ3q66FwQKEuTxstPUQVkaQHphurbhDWVciGKrWShZCu8WvVDoQeNl)
+4. Bayesian Reasoning and Machine Learning [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
+5. Python Data Science Handbook [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0pDYRSrFumu8hsV9LVZZ2FafBK9X2epM61bJ4JmVNmVXuSpBa8XhMgZsETPSFoLefl)
+6. Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking  [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02jVrv6yddgovwRykXTVjp9kb4JwKxtmsCki918RFHRRR64aGedSVVMD1diEBZWMZkl)
+7. Machine Learning: A Probabilistic Perspective [Book] [Advanced] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02UCrhqNxK9UEnkK1yB633K8Es1mA5YNjd1RTMJZjtsUgoyJQVhFNgdYukr7PQbUP7l),[[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02SyDUiRrA8rqcj3Gs1QHLpBEzvCDX4cwUBFSuJPV2vmPJjhn6DZujmiVJYTQRXCaHl)
+8. Bayesian Reasoning and Machine Learning [Book] [Advanced] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02rXSB33DqszfeQ3q66FwQKEuTxstPUQVkaQHphurbhDWVciGKrWShZCu8WvVDoQeNl)
 
 ### Tutorials
 
 1. [MITx 6.00.2x, Introduction to Computational Thinking and Data Science [Tutorial]](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) **[What is DATA Science ? - Entry Course]** [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0VmW6AM1DSqMWqNg72pYTH9gQpekvpYjfykbMdckNudocBn56Po2JPa2xuYX4qUrZl)
-2. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
-3. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
-4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)
-5. [SYDE 522: Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [[Post 1] ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
-6. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)
-7. [MLVU2019: VU Machine Learning 2019 [Tutorial]](https://www.youtube.com/playlist?list=PLCof9EqayQgupldnTvqNy_BThTcME5r93) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
-8. Vrije Universiteit Amsterdam [Tutorial]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0A7MBgVa7GUoRjS31i526X395yssfZccNmCCLPrLqQdXJ4DBBJypPVTzi2GC4uCybl)
-
+2. [Machine Learning Specialization - Andrew Ng [Specialization]](https://www.coursera.org/specializations/machine-learning-introduction?fbclid=IwAR233eAUbOt9A0ezO6jKWcK1RPhn99zi53r_FyNdO8RtHo9ZQT03Yoz7rbM) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid036Ws6y9z29V7LL5eF1oJUDHXdHX6u8PdhLes4d1AE1GUDkvupi3CZboxtQaeg27srl)
+3. Vrije Universiteit Amsterdam [Tutorial]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0mEE6NT8gHnd9Mxv5yhRr3vu7cnfepdtQd8zRKqKrNFvdVyTgxjuH3Td1kb35uvnsl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0A7MBgVa7GUoRjS31i526X395yssfZccNmCCLPrLqQdXJ4DBBJypPVTzi2GC4uCybl)
+   - [MLVU2019: VU Machine Learning 2019 [Tutorial]](https://www.youtube.com/playlist?list=PLCof9EqayQgupldnTvqNy_BThTcME5r93) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
    - [Machine Learning @ VU | MLVU](https://mlvu.github.io)
    - [Deep Learning @ VU | DLVU](https://dlvu.github.io)
-9. [Deep Learning Drizzle [Roadmap]](https://deep-learning-drizzle.github.io)  [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
-10. [Machine Learning Specialization - Andrew Ng [Specialization]](https://www.coursera.org/specializations/machine-learning-introduction?fbclid=IwAR233eAUbOt9A0ezO6jKWcK1RPhn99zi53r_FyNdO8RtHo9ZQT03Yoz7rbM) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid036Ws6y9z29V7LL5eF1oJUDHXdHX6u8PdhLes4d1AE1GUDkvupi3CZboxtQaeg27srl)
+4. [Deep Learning Drizzle [Roadmap]](https://deep-learning-drizzle.github.io) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02MoDX2AsTatnttRRmnfy59jGCqVJdXkTNjVYxa7GnyrxEi2Gucf1XwNfP2vq6igqdl)  [Very Important 🔥]
 
-
-## Probabilistic Machine Learning
-
-> **The Resources in this section are ordered:**
-
-1. [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493).
-2. [Then Check Eng. Hammad Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes).
-
-#### **Now Check the Resources Gathered in ORDER:**
-
-1. [MIT RES.6-012 Introduction to Probability, Spring 2018 [Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-2. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) [[Arabic Edition]](https://www.youtube.com/playlist?list=PLRdABJkXXytC-Lhmyj1cDl-EfnoGI56x7)
-3. [Stanford CS221: Artificial Intelligence: Principles and Techniques  **[Lecture 11 to 15 only ]** [Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-4. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
-5.  [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
-6. [Gaussian Processes for Machine Learning, MIT Press [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
-
-## Neural Networks and Deep Learning
+# Neural Networks and Deep Learning
 
 ### Books
 
@@ -121,7 +161,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 3. [Neural Networks and Statistical Learning [Book]](https://link.springer.com/book/10.1007/978-1-4471-5571-3?fbclid=IwAR3z9ufJXZlKffzeQOXPSjdu4uDjrbfifbL9kV0UaiOAzwVIFLw-u8_kGzc) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02JiL3gVhKQ754GQdjxSQpAHsCB47eG3v9Wbpydn3CppQfoEUFcuuoqexjTgLd4qBVl)
 4. [Evolutionary Approach to Machine Learning and Deep Neural Networks (Ch. 3)[Book] ](https://link.springer.com/book/10.1007/978-981-13-0200-8?fbclid=IwAR0Rx-SNEa7PzJgz3YJgi5u_EUYreznpDQ63FObKhVrX5Y4g3wAeEIOxRac) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02NjGsCnYbcH7uNgYSHn5z82TVXVYf4kVFDxXknqG71V86cWuahgpa1xo6vpFifE76l)
 5. [Graph Neural Networks [Book]](https://graph-neural-networks.github.io/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wfuVQStm2dbtGhQbsD8q3JSgMxMU6eoKga3PpBUVnLFqU62DsA5nqAvc4ZXJTPTkl)
-6. [Deep Learning Book by Aaron Courville, Ian Goodfellow [Book] ](https://www.deeplearningbook.org/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021r8mLSB5q7HXSnZAHhqf3emCJPMz7gJEdyCW5AscHuCfKCRWfBoZJsG24oqrM3aVl)
+6. [Deep Learning Book by Aaron Courville, Ian Goodfellow [Book]](https://www.deeplearningbook.org/) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021r8mLSB5q7HXSnZAHhqf3emCJPMz7gJEdyCW5AscHuCfKCRWfBoZJsG24oqrM3aVl)
 7. Deep Learning for the Life Sciences [Book] [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02mZZD6LTj27DBXU1iejVDqD1Fa9Foi2rrLYVkBHyfK2eEVmdRQES1K3DtEJhueLJkl)
 
 ### Tutorials
@@ -136,7 +176,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 8. [CS 182: Deep Learning (Spring 2021) [Tutorial]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul)
 9. [Deep Learning With PyTorch - Full Course [Tutorial]](https://www.youtube.com/watch?v=c36lUUr864M) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
 
-## YouTube AI Channels
+# YouTube AI Channels
 
 1. [Tübingen Machine Learning - ](https://www.youtube.com/c/TübingenML/playlists)[[Post Link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0CYtN6rdKxM3PQpBRsqfQZ1qb57kcHZ58ve4qKxw8McLxbfwFDLizMwuhqWpZS6jvl)
 2. .[Kapil Sachdeva - ](https://www.youtube.com/c/KapilSachdeva/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
@@ -146,7 +186,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 6. [The AI Epiphany - ](https://www.youtube.com/c/TheAIEpiphany/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 7. [The Math Sorcerer](https://www.youtube.com/c/TheMathSorcerer/playlists)
 
-## Posts 
+# Posts 
 
 ### General 
 
@@ -199,6 +239,8 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [طيب يا عمو انا عاوز ابقي من الفريق الاول اللي هم فعلا Data scientists , اعمل ايه ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0TVaSbzZfewuzrdVmsik2nub5pqF4V4xRARdLmVz9E99gdguBezbvx7a6C7VxY9kel)
 - [ لو واجهتني مشكله جديده علي و دورت في الحل و لقيت ابحاث بتحلها مش بعرف اقرا الابحاث و بلاقي فيها طلاسم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0sYjfw5JXaSoarb8MBtGJQX8B1FdVnhrZxmB9LM2cwRxnCPpu735x1gqGPqCBRmAGl)
 - [تقريبا اي حد بيحاول يفهم Machine Learning كويس بيحتاج يتفسح في نصف العلوم اللي عملها البشر.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0PgY3onypdoiM9drxvscxkhEQLTgwXGCzyYBoDWVNCmkH214w4K7vZ1xtFQfWz6S3l)
+
+- [انا ذاكرت ML كويس و فاهم كل الجوريثم بيعمل ايه. القضيه بقي اني شايفهم منفصلين و مش عارف ايه يستخدم مع ايه امتي.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0MUfBowLeU98ffUtj4vxdG6pLbEWyhrB93patrFq47UhQ8iHAyydoqqiNfPRz6mfgl)
 
 - [How to Become a Data Scientist.](https://medium.com/swlh/how-to-become-a-data-scientist-2a02ed565336?fbclid=IwAR2rAvvjCdMhpPZEDOurMcFAd5a3Tf8Hff52WyfHQbdsMnSrw1aIcztoliY)
 - [Data Scientist vs Data Analyst vs Data Engineer.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02xQ4RhTKbwp2ogvmLbhurn6EzUByEqJ5hcLEBjuAzPx8WiVWHZTjbaMSviT8WxaKvl)
