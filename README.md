@@ -14,7 +14,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Content
 
-- [Prerequisites:](#Prerequisites)
+- [Prerequisites](#Prerequisites)
   - [Computational Thinking and Algorithms](#Computational-Thinking-and-Algorithms)
   - [Mathematics](#Mathematics)
   - [Probability and Statistics](#Probability-and-Statistics)
