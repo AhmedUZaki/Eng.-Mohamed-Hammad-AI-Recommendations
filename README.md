@@ -99,7 +99,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 #### **Now Check the Resources Gathered in ORDER:**
 
 1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY)
-2. [undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) 
+2. [Undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) [[Slides]](https://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 3. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
 4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) 
 5. Bayesian Reasoning and Machine Learning [Book]
@@ -130,7 +130,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Already have experience?
 
-✅  [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [`Date:` January 2021]
+✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [`Date:` January 2021]
 
 #### **Now Check the Resources :**
 
@@ -233,9 +233,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 - [Summer Schools مخصصه للخريجين](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0T2vuCYQf8qf1dUCKPxjcDo9uLqwLA5C5LhBNcjHeULBSSTFMUndrJFP3dSqcRCTKl)
 
-- [انا ودعت TensorFlow لصالح PyTorch من حوالي سنة.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0D4bQqPkdWN7W29sHpEqhL48dowoSRRNyiTt1UFNB69eJ4aMHxStxmtrW8cxQgGK7l)
-
-- [لو مستخدمتش PyTorch حتي الان جربه و مش هتندم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
+- [صعب افتكر كل اللي بقراه و بتعلمه. لوكان دا اشكال بيواجهك ارجوك اقرا الكلمتين دول.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0szC2pzx2gHKLzdbv5Qw2Se9bzRU6EQDP8YoE4ePgcakksp3EBp21BUMUfDTW3WiCl)
 
 - [The Dark Side of Self Study](https://www.youtube.com/watch?v=g7MSfHEdxXs&t=491s)
 
@@ -274,6 +272,8 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [Transformer يحول كود من لغه برمجه الي اخري.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ovcdwvHyxpW8ZEyoxjx6H4CpfusCAu9Rwh91D2ujMDBtDepG5FQBrMAQnm2KjvqKl)
 - [ليه Gaussian شائع الاستخدام في تطبيقات ال Probability عبر مختلف التكنيكس ؟](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DYKqP15DwPae2BAJ16A8ZeoHZ7r5MGt4X266w9iSijMCe6jGgJQfKnEn7LKreZTl)
 - [قبل اي محاولة لتعلم Probabilistic Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02qQ1yJQVjx1edYVT1Sm9YbFg6vzukF86JXZU4V4haQNpaUgqTh1xcwiweNHgKGVBbl)
+- [لو مستخدمتش PyTorch حتي الان جربه و مش هتندم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
+- [انا ودعت TensorFlow لصالح PyTorch من حوالي سنة.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0D4bQqPkdWN7W29sHpEqhL48dowoSRRNyiTt1UFNB69eJ4aMHxStxmtrW8cxQgGK7l)
 - [اذا كنت مهتم بال Deep Learning  و عندك عنه  Graduate Knowledge خليك معايا ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0Gx13mXKxU3nFMpvw78SKD1Kxdr63zBtGyma1j2UtHKjAJaPT4r8wZyxeU4xC43Rwl)
 - [ Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vQJGELDoPp5vv6Pec1CZchH98YoWiwREdf8VtGyFen3aCe88Cdps8ZJ1Csx4FPbMl)
 - [Neural Networks & Functional Programming](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BGjQJmt9uy1dAPiWuTWkveSFfe9uPjhZkPqmusijYh4Aq6h65vqYeGp5QWWTBwfdl)
