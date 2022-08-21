@@ -6,11 +6,13 @@ Self learning **AI / Data Science** curriculum.
 
 This repository is intended to provide **Artificial Intelligence, Machine Learning, and Deep Learning** resources based on the recommendations of Eng. [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/).
 
-***Notice***
+#### **Notice**
 
 > **Each resource is accompanied by the post at which it got recommended; so that you won't feel lost choosing one over the other, Make sure to check them out before beginning your journey.**
-> 
->**The referring links for the [Book]s are being updated gradually.**
+
+> **The referring links for the [Book]s are being updated gradually.**
+
+> **You could download [Book]s directly from [Library Genesis](https://libgen.rs/).**
 
 ## Content
 
@@ -87,9 +89,9 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 1. [Eng. Hammad ITI Lecture](https://www.youtube.com/watch?v=zo0pC3GLyes)
 2. [MIT RES.6-012 Introduction to Probability, Spring 2018 [Tutorial]](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 3. [UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018 [Tutorial]](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) [[Arabic Edition]](https://www.youtube.com/playlist?list=PLRdABJkXXytC-Lhmyj1cDl-EfnoGI56x7)
-4. [Stanford CS221: Artificial Intelligence: Principles and Techniques  **[Lecture 11 to 15 only ]** [Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-5. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [Post link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
-6. [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
+4. [Stanford CS221: Artificial Intelligence: Principles and Techniques [**Lecture 11 to 15 only**][Tutorial]](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) [[Post Link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0F5M428f5a9b97wLbhypfChY8spJZ26o3chMXeiKPECRFLLMPc3ty2dvySvt9CiKcl)
+5. [Daphne Koller - Probabilistic Graphical Models [Courses]](https://www.coursera.org/instructor/koller) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02ZKFdtx2T4amy2YjCfVCxx2PbxH8jjhSjAjD28kgabCAXxuEcXVEREotRzW6bG6Mcl)
+6. [Probabilistic Machine Learning [Kevin Murphy] [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzaceddfhucra7kvibeg3sed6hn7gpimz2flux35ys3fw3kv7z77kshr2?filename=%28Adaptive%20Computation%20and%20Machine%20Learning%29%20Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective-The%20MIT%20Press%20%282012%29.pdf) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LCPSCfhvdcbmXcifWX3KN6c3QvjxhRxdawy5YvVvhyYFcjt1pNtzarTfWH9XJHfRl) [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02WvLu4SxXvxAj35Xw8gN7jAR8QETTSYBJAqPwPRuFuii4Eq1TfQDnCHPuNmodGyENl)
 7. [Gaussian Processes for Machine Learning, MIT Press [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecewgqxguyzno2zwchl5ivlml6m3cyyk5qnj5rdkjcac6hemktkbm?filename=%28Adaptive%20computation%20and%20machine%20learning%29%20Williams%2C%20Christopher%20K.%20I._Rasmussen%2C%20Carl%20Edward%20-%20Gaussian%20processes%20for%20machine%20learning-MIT%20Press%20%282008%29.pdf)
 
 ## ML and Data Science 
@@ -235,9 +237,9 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 - [صعب افتكر كل اللي بقراه و بتعلمه. لوكان دا اشكال بيواجهك ارجوك اقرا الكلمتين دول.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0szC2pzx2gHKLzdbv5Qw2Se9bzRU6EQDP8YoE4ePgcakksp3EBp21BUMUfDTW3WiCl)
 
-- [The Dark Side of Self Study](https://www.youtube.com/watch?v=g7MSfHEdxXs&t=491s)
+- [The Dark Side of Self Study.](https://www.youtube.com/watch?v=g7MSfHEdxXs&t=491s)
 
-- [Ralph Kimball]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
+- [Ralph Kimball.]( https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08XcU8FbRSMBTvKGwDzv88HFyMjQX7o6sb4AJ1111Fp3cdbKMFFN8tJgAosxyY3h6l)
 
 
 ###  Machine Learning
@@ -257,7 +259,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [Active Learning and Weak Learning.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027Xqd9pSUu2wyJNtG1NdSwnF8rRj2J5pAoq9n1x7ZNzHkzDbCrR1XexJyTqdyFpfPl)
 - [Unsupervised Learning with Graph Neural Networks](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0yHiZEYDAVp3s7v6BqeA7h3qubPKUEQuy67GYgvaUKuGvDXqfuwSindZzmKaDbbxfl)
 - [The Hundred-Page Machine Learning Book](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0KjxaANgRihxy7ZutLK16srakkXWUCAW7VRnjiPphGvzyc56L3DyitxewdXpgofsvl)
-- [#Probabilistic_Modeling Session 1 ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vNmZSG1rZEUY9eLCSqkyurwPF4KUX1vUU9yLTbFKHvpDVaSnoPK24W3RA3xpva9ml)
+- [#Probabilistic_Modeling Session 1](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vNmZSG1rZEUY9eLCSqkyurwPF4KUX1vUU9yLTbFKHvpDVaSnoPK24W3RA3xpva9ml)
 - [#Probabilistic_Modeling Session 2](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0HrrkB9Lg7iAUt4hT1vSuBsAu1NP7zeBwUX1MHTQgXMxyry8fX4pgZ359q9mjdPabl)
 
 ### Deep Learning
@@ -275,14 +277,14 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 - [لو مستخدمتش PyTorch حتي الان جربه و مش هتندم.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0RbpkvxXsXD66RU95ZkEkMu4LVbTarLvdE6QcR4XZSxwCBPpmVZJziKBCFFSVdroal)
 - [انا ودعت TensorFlow لصالح PyTorch من حوالي سنة.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0D4bQqPkdWN7W29sHpEqhL48dowoSRRNyiTt1UFNB69eJ4aMHxStxmtrW8cxQgGK7l)
 - [اذا كنت مهتم بال Deep Learning  و عندك عنه  Graduate Knowledge خليك معايا ](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0Gx13mXKxU3nFMpvw78SKD1Kxdr63zBtGyma1j2UtHKjAJaPT4r8wZyxeU4xC43Rwl)
-- [ Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vQJGELDoPp5vv6Pec1CZchH98YoWiwREdf8VtGyFen3aCe88Cdps8ZJ1Csx4FPbMl)
-- [Neural Networks & Functional Programming](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BGjQJmt9uy1dAPiWuTWkveSFfe9uPjhZkPqmusijYh4Aq6h65vqYeGp5QWWTBwfdl)
+- [Graphical Models](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vQJGELDoPp5vv6Pec1CZchH98YoWiwREdf8VtGyFen3aCe88Cdps8ZJ1Csx4FPbMl)
+- [Neural Networks & Functional Programming.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0BGjQJmt9uy1dAPiWuTWkveSFfe9uPjhZkPqmusijYh4Aq6h65vqYeGp5QWWTBwfdl)
 
-- [Accounting using Autoencoder Neural Networks](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0PtDku1TWHvqKL4j8u7sGqnNkQeM3Aesz1G9eoKZ7DwiRdycq1HdbNvj8ZbRtTnd3l)
-- [ Symbolic Math - Deep Learning](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0F7dUcRJAiPRdH1nT3KPVNuJLe77Kf23k3i6FEuhQDWz9He9YgxCWh5eAWLANucPhl)
+- [Accounting using Autoencoder Neural Networks.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0PtDku1TWHvqKL4j8u7sGqnNkQeM3Aesz1G9eoKZ7DwiRdycq1HdbNvj8ZbRtTnd3l)
+- [ Symbolic Math - Deep Learning.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0F7dUcRJAiPRdH1nT3KPVNuJLe77Kf23k3i6FEuhQDWz9He9YgxCWh5eAWLANucPhl)
 - [Computational Graph (1)](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02KqdsATPSisvhjywwXGYVKL1a14doJXFeXcTNZdBKVeyfJGKLuSPrgJUKeUdGybL3l), [Computational Graph (2)](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0YnTWHVNNNhjNFsabCAvMVey6hpkDyiUKNEWALgAiwmRbHhjKeZcZCnVuPBRVWmJJl), [Computational Graph (3)](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02R4oZq4Xosob37qgAACK83qBSXMSFmgDca2EejihyHsbiXWGoNM5ZujT6C6ETGvaYl) 
-- [Universal Function Approximation](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0xz2SewamwUWfuJPGekfWg1RxpTgZB1em4kzmURMatKc4SPvCgaS3KxANW8bTMLXYl)
-- [Symbolic Integration](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vBC5zJjYUAcsoBAnFquuTKQnd2KQv1cv86GKtCBBZrYtyPwW4HYWtLENhSRuBXSil)
+- [Universal Function Approximation.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0xz2SewamwUWfuJPGekfWg1RxpTgZB1em4kzmURMatKc4SPvCgaS3KxANW8bTMLXYl)
+- [Symbolic Integration.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02vBC5zJjYUAcsoBAnFquuTKQnd2KQv1cv86GKtCBBZrYtyPwW4HYWtLENhSRuBXSil)
 
 ### Shares
 
