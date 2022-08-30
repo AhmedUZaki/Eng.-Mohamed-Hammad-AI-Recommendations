@@ -22,6 +22,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
   - [Probability and Statistics](#Probability-and-Statistics)
 
 - [Mini Roadmaps](#Mini-Roadmaps)
+  - [The Shortest Path to Learning Data Science](#The-Shortest-Path-to-Learning-Data-Science)
   - [Probabilistic Machine Learning](#Probabilistic-Machine-Learning)
   - [ML and Data Science](#ML-and-Data-Science)
   - [Roadmap for AI](#Roadmap-for-AI)
@@ -80,9 +81,18 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 # Mini Roadmaps 
 
+## The Shortest Path to Learning Data Science
+
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02d25wr6Pq7SAjCgnkyfvV3WBgc7GFJeMLHzgdpWqHWbjVGwL9bMxeH6k9aNkVnRJYl)  [`Date:` August 2022]
+
+#### **Now Check the Resources :**
+
+1. [Intro to Data Science [Tutorial]](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+2. [Python Data Science Handbook [Book]](https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR0KFs524y_a_GkBA1TjE5nGHR9nOgHltmMeaGtTyAuRTuotVMGGnpi0Rnw)
+
 ## Probabilistic Machine Learning
 
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)  [`Date:` August 2021]
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/6005266736212493)  [`Date:` August 2021]
 
 #### **Now Check the Resources Gathered in ORDER:**
 
@@ -96,7 +106,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## ML and Data Science 
 
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)  [`Date:` June 2020]
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l)  [`Date:` June 2020]
 
 #### **Now Check the Resources Gathered in ORDER:**
 
@@ -109,7 +119,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Roadmap for AI 
 
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)  [`Date:` September 2021]
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l)  [`Date:` September 2021]
 
 #### **Now Check the Resources :**
 
@@ -123,7 +133,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Get three years of experience 
 
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl)  [`Date:` June 2022]
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl)  [`Date:` June 2022]
 
 #### **Now Check the Resources :**
 
@@ -132,7 +142,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Already have experience?
 
-✅ [First Check This Post](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [`Date:` January 2021]
+✅ [[First Check This Post]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl) [`Date:` January 2021]
 
 #### **Now Check the Resources :**
 
