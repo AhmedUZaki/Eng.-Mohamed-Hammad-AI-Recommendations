@@ -88,7 +88,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 #### **Now Check the Resources :**
 
 1. [Intro to Data Science [Tutorial]](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
-2. [Python Data Science Handbook [Book]](https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR0KFs524y_a_GkBA1TjE5nGHR9nOgHltmMeaGtTyAuRTuotVMGGnpi0Rnw)
+2. [Python Data Science Handbook [Book]](https://cloudflare-ipfs.com/ipfs/bafykbzacecebkbjkdlhznsbytkxkxglef65oh6satq7ogsbgygi3xvhjtgz4g?filename=VanderPlas%2C%20Jacob%20T%20-%20Python%20data%20science%20handbook_%20essential%20tools%20for%20working%20with%20data-O%27Reilly%20Media%20%282017%29.pdf), [[Code]](https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR0KFs524y_a_GkBA1TjE5nGHR9nOgHltmMeaGtTyAuRTuotVMGGnpi0Rnw)
 
 ## Probabilistic Machine Learning
 
@@ -110,7 +110,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 #### **Now Check the Resources Gathered in ORDER:**
 
-1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY)
+1. [Machine Learning Fundamentals [Tutorial]](https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY) [Unavailable now]
 2. [Undergraduate machine learning at UBC 2012 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf) [[Slides]](https://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 3. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
 4. [Machine Learning 2013 [Tutorial]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) 
@@ -123,7 +123,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 #### **Now Check the Resources :**
 
-1. [SYDE 522: Machine Intelligence (Winter 2018, University of Waterloo)  [Tutorial]](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) [[Lecture notes]](https://github.com/KimiaLab/SYDE-522) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
+1. [SYDE 522: Machine Intelligence (Winter 2018, University of Waterloo) [Tutorial]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02GLXPjQDvwK7xStRiz1peEnj9ud8arBiieau2Qhr2TNvmFTix5wVt3MxnvD8XkyREl) [[Lecture notes]](https://github.com/KimiaLab/SYDE-522) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid09JPXwpKDkKSzWJYxMn6MBm8vBGS8ziSCdWsfoFcbnrsnPqjFwD9Wr9KUX346K5U5l)
 
 2. [CS480/680: Intro to Machine Learning - Spring 2019 - University of Waterloo [Tutorial]](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02DKDukDEMvXiG9yGp6JEN6WFrcrnPJ8TnJe2TdwPZiSKnBoxQsS9m6bx49GL3EGB6l), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid027UnGS9JnuVV77z29aFacuk3AoNw4qwEAzgvp7JPDunaqQJD1KegzgTcfizsaMJ84l)
 
@@ -137,8 +137,9 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 #### **Now Check the Resources :**
 
-1. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-2. Mastering Machine Learning Algorithms [Book]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+1. [Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill [Book]](https://crustwebsites.net/ipfs/bafykbzaceafo36uuggwqxohsy5vb7lgnpoby2twafsprb7qnuha75knqccjai?filename=Denis%20Rothman%20-%20Artificial%20Intelligence%20By%20Example_%20Acquire%20Advanced%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning%20design%20skills-Packt%20Publishing%20%282020%29.pdf) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+2. [Mastering Machine Learning Algorithms, Second Edition [Book]](https://ipfs.io/ipfs/bafykbzacedm2ncaqsz2rg6t6veyfxv2fvouxtpnxbxu3k75gmtzwurs2dfsmi?filename=Giuseppe%20Bonaccorso%20-%20Mastering%20machine%20learning%20algorithms%20_%20expert%20techniques%20for%20implementing%20popular%20machine%20learning%20algorithms%2C%20fine-tuning%20your%20models%2C%20and%20understanding%20how%20they%20work%20%282020%29.pdf
+   ) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
 
 ## Already have experience?
 
@@ -146,10 +147,11 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 #### **Now Check the Resources :**
 
-1. Mastering Machine Learning Algorithms - Second Edition [Book]  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-2. Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book] [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+1. [Mastering Machine Learning Algorithms, Second Edition [Book]](https://ipfs.io/ipfs/bafykbzacedm2ncaqsz2rg6t6veyfxv2fvouxtpnxbxu3k75gmtzwurs2dfsmi?filename=Giuseppe%20Bonaccorso%20-%20Mastering%20machine%20learning%20algorithms%20_%20expert%20techniques%20for%20implementing%20popular%20machine%20learning%20algorithms%2C%20fine-tuning%20your%20models%2C%20and%20understanding%20how%20they%20work%20%282020%29.pdf
+   )  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
+2. [Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skill  [Book]](https://crustwebsites.net/ipfs/bafykbzaceafo36uuggwqxohsy5vb7lgnpoby2twafsprb7qnuha75knqccjai?filename=Denis%20Rothman%20-%20Artificial%20Intelligence%20By%20Example_%20Acquire%20Advanced%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning%20design%20skills-Packt%20Publishing%20%282020%29.pdf) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0wdPobnXwg2WQD7LwuVtiGEWxUpGiwzdUNJsJ3GB562bFQGMXJUzfvide8qUspminl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
 3. [Artificial Intelligence_ A Modern Approach, 4th Edition (2021) [Book]](https://drive.google.com/file/d/11VOTkNHySxbJvEYTo6T7zLipUSFipSZL/view?fbclid=IwAR0GidMOdOhAfjOfSmpcLZho53uBjboaDbzVZrzUwNP7qJLuCn_26-XabHc) [[Post 1]](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl)
-4. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [Arabic Edition](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) 
+4. [CPSC 322: Introduction to Artificial Intelligence (UBC) [Tutorial]](http://www.infocobuild.com/education/audio-video-courses/computer-science/cpsc322-2013-ubc.html) [[Arabic Edition]](https://www.youtube.com/playlist?list=PLsnvpvHuTUbAZr0n65TgytBK6bHdT33A7)  [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid08R4RA6JwjnKCXhzu5fU54JKMNzdTgntWK2YLB1nHUJ3n3kBH7UcaLpbmvuuaVNhNl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0313wJ51k428czBEq7SiRPUVZYZJYGKuTEjrbxJUHSmYtBGQoXAkq3V56FMDidm8hjl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0FVUHjibzYrzYrpcmyaSV4NspxLL7Wauwd77JGnsDdEyNQb4EYrnFWV5LmnjsVMb9l) 
 
 # Artificial intelligence and Machine Learning
 
