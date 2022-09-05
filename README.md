@@ -263,6 +263,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ###  Machine Learning
 
+- [خليك شديد كده.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02f3pNZDUamoqNwwYDQC4yGtJTjv4M794mjxQWo1cXQQj37Zowe62BVm9SBRgdKYvWl)
 - [لو بتتعلم Data Science او بتشتغل بيها او حتي عاوز تتعلمها كمل معايا شويه.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02LdBGfSPfXkHCrkNeHtLMDe58u8ars9yzBAjiLcRQaQpgmXVTeRoredPTR7t1y6mkl)
 - [بوست مهم لو حضرتك عاوز تتقدم كويس في DL,ML بمستوي اعلي من Graduate Level](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid021Cb1iMeA49T8mqKvq4zdoNDf8oU3DzXyzyErsGtqQSgCKWfZsX9c81tvygEH2Url)
 - [كلام مهم جدا للمهتمين ML,AI.](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02omDu2VPN8BE41puij1khM4KexWsuPutUyfyaLHDYoJmUE97PvB8tYphBnGEoGhGdl)
