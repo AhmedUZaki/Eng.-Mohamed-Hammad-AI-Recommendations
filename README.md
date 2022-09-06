@@ -42,8 +42,8 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 
 ## Computational Thinking and Algorithms
 
-1. [MIT's Introduction to Computer Science and Programming Using Python [Tutorial]](https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)  [Beginner]
-2. [Stanford - Programming Paradigms [Tutorial]](https://www.youtube.com/playlist?list=PLzi8dDyr-I0k4TrPGf6V1DPXuQss9WBF1) [Post Link](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul) [Beginner]
+1. [MIT's Introduction to Computer Science and Programming Using Python [Tutorial]](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)  [Beginner]
+2. [Stanford - Programming Paradigms [Tutorial]](https://www.youtube.com/playlist?list=PLzi8dDyr-I0k4TrPGf6V1DPXuQss9WBF1) [[Post Link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02EN4FSyjdjpS7GjmtaLo7vhy31DKyraK8BRbjqLJDrMTkh4wGUwnxgAtSswKTjApul) [Beginner]
 3. [Grokking Algorithms [Book]](https://bit.ly/3xl71jO) [[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02FoVPsAsk939y1LFSfs88qqGHn1oFw5EuTtw7E1c5tfG65QNgvqGVJ8rnjJvTw4u1l) [Beginner]
 4. [Algorithms Unplugged [Book]](https://link.springer.com/book/10.1007/978-3-642-15328-0) [[Post 1]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid02yQiBV7HnZJZ6Pdis7TYdrqDmGEHXXgsjSCTVwYpv8cPy7Xy3yAz3mVwP6d35ZUFbl), [[Post 2]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0sfBdsPEEkHsEESXV41wghgaPQPLtuseYh4Xb4qXZ6TYtabTQ7y1HbehXL98hTfoXl), [[Post 3]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0ccvVQgAHrmDLZigAUozdrK6FPRwueNunw95kKPXrZXNCR1cyBvVi1Jx3oBCA1ZJYl) [Advanced]
 
