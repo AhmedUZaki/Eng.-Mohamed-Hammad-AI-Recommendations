@@ -1,4 +1,4 @@
-# Eng. Mohamed Hammad **AI Recommendation**
+# Eng. Mohamed Hammad **AI Recommendations**
 
 Self learning **AI / Data Science** curriculum.
 
