@@ -209,7 +209,7 @@ This repository is intended to provide **Artificial Intelligence, Machine Learni
 # YouTube AI Channels
 
 1. [Tübingen Machine Learning - ](https://www.youtube.com/c/TübingenML/playlists)[[Post Link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0CYtN6rdKxM3PQpBRsqfQZ1qb57kcHZ58ve4qKxw8McLxbfwFDLizMwuhqWpZS6jvl)
-2. .[Kapil Sachdeva - ](https://www.youtube.com/c/KapilSachdeva/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
+2. [Kapil Sachdeva - ](https://www.youtube.com/c/KapilSachdeva/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 3. [Meerkat Statistics - ](https://www.youtube.com/c/MeerkatStatistics/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 4. [Machine Learning and AI Academy - ](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
 5. [DeepFindr - ](https://www.youtube.com/c/DeepFindr/playlists)[[Post link]](https://www.facebook.com/mohamed.hamedhammad/posts/pfbid0vPkZ3bngppP7yZFa48WpWeLWRqUgi6BYxobkejTeBh7jxN2mBHY4j6iXKiFTHs8fl)
